@@ -17,14 +17,7 @@ function sayHiToGrandma (string) {
   var gma = 'I can\'t hear you!';
   if (string === string.toLowerCase()){
     return gma
-  var x = "Yes Indeed!"
-  if (string === uppercase.toUpperCase()){
-    return x 
-  var prime = "I love you, too.";
-  if (string === "I love you, Grandma."){
-    return prime;
-  }
-  }
+  
   }
     }
   
