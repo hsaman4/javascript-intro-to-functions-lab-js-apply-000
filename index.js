@@ -18,7 +18,7 @@ function sayHiToGrandma (string) {
   if (string === string.toLowerCase()){
     return gma
   var x = "Yes Indeed!"
-  if (string === string.toUpperCase()){
+  if (string === uppercase.toUpperCase()){
     return (x - gma)
   var prime = "I love you, too.";
   if (string === "I love you, Grandma."){
