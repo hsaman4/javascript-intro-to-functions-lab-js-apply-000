@@ -17,12 +17,17 @@ function sayHiToGrandma (string) {
   // string = "hello"
   var gma = 'I can\'t hear you!';
   var prime = "YES INDEED!"
+  var x = "I love you, too";
   if (string === "hello" && string.toLowerCase()){
     return gma 
   }
   else if (string === "HELLO" && string.toUpperCase()){
     return prime
   }
+  else if (string === "I Love you, Grandma."){
+   return x
 }
+  }
+
   
   
