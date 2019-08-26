@@ -24,7 +24,7 @@ function sayHiToGrandma (string) {
   else if (string === "HELLO" && string.toUpperCase()){
     return prime
   }
-  else if (string === "I Love you, Grandma."){
+  else if (string === "I love you, Grandma."){
    return x
 }
   }
