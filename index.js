@@ -20,7 +20,7 @@ function sayHiToGrandma (string) {
   if (string === string.toLowerCase()){
     return gma 
   }
-  else (string === string.toUpperCase()){
+  else if (string === string.toUpperCase()){
     return prime
   }
 }
