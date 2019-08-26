@@ -16,14 +16,17 @@ function logWhisper (string) {
 function sayHiToGrandma (string) {
   // string = "hello"
   var gma = 'I can\'t hear you!';
-  var prime = "YES INDEED!"
+  var prime = "YES INDEED!";
+  var ily = "I love you, too";
   if (string === "hello" && string.toLowerCase()){
     return gma 
   }
   else if (string === "hello" && string.toUpperCase()){
     return prime
   }
-  else if(string === "")
+  else if(string === "I love you, Grandma.") {
+    return ily;
+  }
   
 }
   
