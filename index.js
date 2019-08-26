@@ -14,7 +14,6 @@ function logWhisper (string) {
 }
 
 function sayHiToGrandma (string) {
-  // string = "hello"
   var gma = 'I can\'t hear you!';
   var prime = "YES INDEED!"
   var x = "I love you, too.";
